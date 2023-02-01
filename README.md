@@ -3,7 +3,7 @@
 
  
 
-*Data Source* : IBM HR ANALYTICS DATA
+*Data Source* : IBM HR ANALYTICS DATA,
 *Tools Used* : MySQL
 
 # STEP 1
